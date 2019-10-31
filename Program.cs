@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AkademiaTest
 {
-    internal class Program
+    public class Program
     {
         private static void Main(string[] args)
         {
